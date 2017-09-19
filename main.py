@@ -12,11 +12,13 @@ def getTweets(twitterContent):
 
 	return tweets
 
+# Writes tweets to text file
 def writeTweets(file, tweets, handles):
 	tweetsPerHandle = int(len(tweets)/len(handles))
 
 	file.write("TWEETS\n")
 	for i in range(len(tweets)):
+		# Writes twitter handle
 		if(i%tweetsPerHandle==0):
 			file.write("@" + handles[i/tweetsPerHandle] + "\n")
 		file.write("-" + tweets[i] + "\n")
