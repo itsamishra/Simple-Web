@@ -35,11 +35,7 @@ def main():
 	twitterContent = content[content.Name=="Twitter"]
 	tweets = getTweets(twitterContent)
 
-	'''=====FOR=====DEBUGGING=====
-	for i in range(len(tweets)):
-		print(str(i+1) + ". " + tweets[i])
-	'''
-
+	# Writes twitter data to .txt file
 	writeTweets(outputFile, tweets, twitterContent.Content)
 
 	outputFile.close()
