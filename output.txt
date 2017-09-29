@@ -1,4 +1,4 @@
-TWEETS
+TWEETS------------------------
 @chamath
 -Q2-2017 ranking of VCs...Pick your VC wisely.  We are ramping up seed investing but still dominating in helping companies get default alive.pic.twitter.com/icKjUzRvZG
 -We just led this Series A (which already has the revs of a Series D). Fresno could be quite big in the post-cable world of $NFLX and $AMZN.https://twitter.com/socialcapital/status/913562236441919488 …
@@ -7,13 +7,25 @@ TWEETS
 -Must read this week's Snippets.https://twitter.com/alex_danco/status/912370880776478720 …
 @BenedictEvans
 -New post: winner-takes all effects in autonomous carshttp://ben-evans.com/benedictevans/2017/8/20/winner-takes-all …
+-Quite a thing to boast aboutpic.twitter.com/cXSdOLt4G8
+-You misspelled "database"https://twitter.com/coindesk/status/913327743277953025 …
 -Oh! I really though it was Intel given all going on with QCOM and Apple. But good win for Qualcomm and justification for them also.https://twitter.com/iFixit/status/913560863327625217 …
 -It’s official, I don’t like Qi wireless charging. iPhone 8 Plus has to be placed in exact right position or won’t charge.
--If Facebook & Twitter want to be serious about solving bots, propaganda, abuse on their platforms they need to answer three questions...
--#FrenchTech @Regaindhttps://twitter.com/TechCrunch/status/913790962194948096 …
 @joerogan
+-This artificial muscle could make lifelike robots commonplacepic.twitter.com/yrB5Ju3wgj
 -Crypto carnivores: A small community of Bitcoin users has decided to eat meat exclusively http://bit.ly/2fViyQZ pic.twitter.com/z44tBSWPCc
 -@joerogan Government regulation for the 2 biggest platforms that allow the freedom of information? Makes sense.http://www.foxbusiness.com/features/2017/09/28/facebook-google-will-face-government-scrutiny-gingrich-says.html …
 -I have no doubts that this young man intends to #keephammering #enthusiastic https://www.instagram.com/p/BZnjhP3HfWZ/ 
 -Both sideshttps://mobile.nytimes.com/2017/09/19/opinion/alt-right-white-supremacy-undercover.html …
--Accused NSA leaker was angry over Fox News always being on in the officehttps://arstechnica.com/tech-policy/2017/09/accused-nsa-leaker-was-angry-over-fox-news-always-being-on-in-the-office/ …
+
+HACKER NEWS HEADLINES---------
+1 How the Catalan government uses IPFS to sidestep Spain's legal block (http://la3.org/~kilburn/blog/catalan-government-bypass-ipfs/)
+2 Draggable JS – a lightweight, responsive, modern drag-and-drop library (https://shopify.github.io/draggable/)
+3 Alibaba is leading a $27M investment in MariaDB (https://techcrunch.com/2017/09/29/alibaba-mariadb/)
+4 It’s time to give Firefox another chance (https://techcrunch.com/2017/09/29/its-time-to-give-firefox-another-chance/)
+5 Edward Snowden: Zcash Is 'Most Interesting Bitcoin Alternative' (https://www.coindesk.com/edward-snowden-zcash-is-most-interesting-bitcoin-alternative)
+6 Is AI Riding a One-Trick Pony? (https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony)
+7 Google removes Catalan referendum app from Google Play after court order (https://www.thespainreport.com/articles/1166-170929190146-google-removes-catalan-referendum-app-from-google-play-after-catalan-high-court-issues-take-down-order)
+8 Show HN: ARKit Playground – Make ARKit Experiences in JS from Your Browser (https://snack.expo.io/SJMTQ5jiZ)
+9 Cloudflare Workers: Run JavaScript Service Workers at the Edge (https://blog.cloudflare.com/introducing-cloudflare-workers/)
+10 Exploiting the Wi-Fi Stack on Apple Devices (https://googleprojectzero.blogspot.com/2017/09/over-air-vol-2-pt-1-exploiting-wi-fi.html)

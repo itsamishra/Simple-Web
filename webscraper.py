@@ -29,27 +29,28 @@ def twitterScraper(twitterHandles, tweetLimit=5):
 	return tweets
 
 def hackerNewsScraper(itemLimit=10):
-	# Item will contain [title, URL], and headlines will contain item
+	# Contains [headline name, headline url]
 	headlines = []
-	item = []
 
 	# Grabs HTML from hacker news
 	url = "https://news.ycombinator.com/"
 	pageHTML = urllib.request.urlopen(url)
 	soup = bs.BeautifulSoup(pageHTML, "html.parser")
 
+	# Gets list of stories
 	hnItems = soup.findAll("a", {"class":"storylink"})
 
-	print(len(hnItems))
-
-
+	# Adds top 10 stores in HN to headlines array
 	counter = 0
 	for i in hnItems:
-		print(i)
+		#print(str(counter+1), i.text, i["href"])
+		headlines.append([i.text, i["href"]])
 
 		counter+=1
 		if counter==10:
 			break
+
+	return headlines
 
 
 
