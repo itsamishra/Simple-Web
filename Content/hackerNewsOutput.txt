@@ -1,0 +1,12 @@
+
+HACKER NEWS HEADLINES---------
+1 Google commits $1B in grants to train U.S. workers for high-tech jobs (https://techcrunch.com/2017/10/12/google-commits-1-billion-in-grants-to-train-u-s-workers-for-high-tech-jobs/)
+2 TerrariaClone – An incomprehensible hellscape of spaghetti code (https://github.com/raxod502/TerrariaClone)
+3 John Carmack's Keynote at Oculus 4 Live Stream [video] (https://www.facebook.com/oculusvr/videos/vb.270208243080697/1189602884474557/?type=3&theater)
+4 New periodic orbits of the three-body problem (https://phys.org/news/2017-10-scientists-periodic-orbits-famous-three-body.html)
+5 The Toxic Saga of the Tsukiji Fish Market (https://www.eater.com/2017/7/25/16019906/tokyo-tsukiji-toyosu-olympics-delay)
+6 An open source re-implementation of RollerCoaster Tycoon 2 (https://github.com/OpenRCT2/OpenRCT2)
+7 Exploiting the Wi-Fi Stack on Apple Devices (https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html)
+8 Indigo Fair (YC W17) Is Hiring Front End Engineers in Kitchener/Waterloo (https://angel.co/indigo-fair/jobs/250456-frontend-engineer)
+9 Hyperloop One Becomes ‘Virgin Hyperloop One’ (https://techcrunch.com/2017/10/12/hyperloop-one-becomes-virgin-hyperloop-one-with-virgin-group-investment/)
+10 Exploding Git Repositories (https://kate.io/blog/git-bomb/)
